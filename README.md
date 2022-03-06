@@ -6,7 +6,7 @@ Me chamo Vini, atualmente estou aprendendo sobre desenvolvimento web (HTML, CSS 
   
 
 ##
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmouzinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=viniciusmouzinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ##
 
